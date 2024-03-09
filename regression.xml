@@ -5,7 +5,8 @@
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="products.AddProductsTests"/>
-<!--            <class name="login.LoginTests1"/>-->
+            <class name="login.LoginTests1"/>
+            <class name="login.LoginTests"/>
         </classes>
     </test>
 <!--    <test verbose="2" name="Regression on firefox">-->
